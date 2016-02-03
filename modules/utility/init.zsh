@@ -160,6 +160,8 @@ fi
 # Serves a directory via HTTP.
 alias http-serve='python -m SimpleHTTPServer'
 
+# Adds wd to the path
+alias wd='~/.yadr/zsh/prezto/modules/wd/wd.sh'
 #
 # Functions
 #
